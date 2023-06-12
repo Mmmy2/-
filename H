@@ -2,9 +2,11 @@
 
   {
 
-    "link": "https://2ad.ir/CtGQQu",
+    "link": "https://cuty.io/pbtZrMbeR",
 
-    "name": "دریافت 10تومن با یک کلیک"
+    "name": "دریافت 100 تومن با یک کلیک",
+
+    "links": "aHR0cHM6Ly8xMjMuMjM1Ni45OA\u003d\u003d"
 
   }
 
