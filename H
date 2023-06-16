@@ -2,11 +2,11 @@
 
   {
 
-    "link": "https://cuty.io/pbtZrMbeR",
+    "link": "https://cuty.io/WvcXzr",
 
-    "name": "دریافت 100 تومن با یک کلیک",
+    "name": "دریافت 50 تومن با یک کلیک",
 
-    "links": "aHR0cHM6Ly8xMjMuMjM1Ni45OA\u003d\u003d"
+    "links": "aHR0cHM6Ly93d3cuYXBhcmF0LmNvbS91c2VyL3Byb2ZpbGUvdXBkYXRl"
 
   }
 
