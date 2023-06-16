@@ -6,8 +6,7 @@
 
     "name": "دریافت 50 تومن با یک کلیک",
 
-    "links": "aHR0cHM6Ly93d3cuYXBhcmF0LmNvbS91c2VyL3Byb2ZpbGUvdXBkYXRl
-"
+    "links": "aHR0cHM6Ly93d3cuYXBhcmF0LmNvbS91c2VyL3Byb2ZpbGUvdXBkYXRl"
 
   }
 
