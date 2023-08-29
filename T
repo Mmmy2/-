@@ -1,8 +1,8 @@
 [
   {
-    "name": "",
-    "link": "",
-    "text": "",
-    "image": ""
+    "name": "آیسینو",
+    "link": "icinoty",
+    "text": "برترین کانال طنز روبیکا",
+    "image": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۸۳۰_۰۲۱۳۳۳_cd9d.png"
   }
 ]
