@@ -1,8 +1,14 @@
 [
   {
-    "name": "",
-    "link": "",
-    "text": "",
-    "image": ""
+    "name": "باحالیند",
+    "link": "bahalind",
+    "text": "سلام ما تو کانالمون کلی مطالب طنز میزاریم حتما عضو بشید",
+    "image": "https://s6.uupload.ir/files/img_20230829_175403_366_yovc.jpg"
+  },
+  {
+    "name": "آیسینو",
+    "link": "icinoty",
+    "text": "بیا اینور بازار",
+    "image": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۸۳۰_۰۲۱۳۳۳_cd9d.png"
   }
 ]
