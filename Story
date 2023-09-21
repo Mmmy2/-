@@ -1,0 +1,6 @@
+[
+  {
+    "image": "https://www.uplooder.net/img/image/31/b7a1c23a7307a8d5ed80d6ede355b65a/Negar-۲۰۲۳۰۹۲۱-۱۷۵۶۱۲.png",
+    "link": "https://myket.ir/app/ir.appk.gfiyrwc"
+  }
+]
